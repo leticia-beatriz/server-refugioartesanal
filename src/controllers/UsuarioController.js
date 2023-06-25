@@ -95,7 +95,7 @@ const UsuarioController = {
   
 };
 
-//arroz
+//a
 
 module.exports = UsuarioController;
 
