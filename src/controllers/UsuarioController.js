@@ -96,5 +96,4 @@ const UsuarioController = {
 };
 
 module.exports = UsuarioController;
-
-ragatanga
+const dois = 0;
