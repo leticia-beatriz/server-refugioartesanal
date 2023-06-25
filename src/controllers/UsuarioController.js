@@ -97,4 +97,3 @@ const UsuarioController = {
 
 module.exports = UsuarioController;
 
-(batatinhas);
