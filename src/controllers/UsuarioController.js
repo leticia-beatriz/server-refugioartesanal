@@ -95,5 +95,4 @@ const UsuarioController = {
   
 };
 
-module.exports = UsuarioController;
-const dois = 0;
+module.exports = UsuarioController;kkj
